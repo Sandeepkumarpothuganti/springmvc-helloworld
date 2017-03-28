@@ -28,5 +28,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Sandy/Downloads/webapp-runner-7.0.40.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
